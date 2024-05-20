@@ -1,3 +1,7 @@
-./plots
-./.ipynb_checkpoints
-./*.csv
+plots
+plots/*.png
+
+.ipynb_checkpoints
+
+*.csv
+*.yml
