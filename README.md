@@ -8,5 +8,3 @@ I understand this is not a normal way of accessing bloomberg but I wanted to use
    - install the following packages: `pandas`, `matplotlib`, `seaborn`, `jupyterlab`, and `blp` - you will have to add the `conda-forge` channel to find blp
 3) Launch JuypterLab from Anaconda Navigator
 4) Run the cells one at a time
-
-### Helper Functions that can be reused for each part of the analysis
